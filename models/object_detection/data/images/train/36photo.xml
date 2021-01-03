@@ -12,39 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Speed Limit 25</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>28</xmin>
-			<ymin>178</ymin>
-			<xmax>70</xmax>
-			<ymax>231</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>Stop</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>168</xmin>
-			<ymin>168</ymin>
-			<xmax>234</xmax>
-			<ymax>236</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Speed Limit 25</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>300</xmin>
-			<ymin>138</ymin>
-			<xmax>331</xmax>
-			<ymax>174</ymax>
+			<xmin>238</xmin>
+			<ymin>128</ymin>
+			<xmax>276</xmax>
+			<ymax>165</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>427</xmin>
-			<ymin>160</ymin>
-			<xmax>468</xmax>
-			<ymax>204</ymax>
+			<xmin>299</xmin>
+			<ymin>113</ymin>
+			<xmax>317</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>113</ymin>
+			<xmax>382</xmax>
+			<ymax>169</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>435</xmin>
-			<ymin>223</ymin>
-			<xmax>501</xmax>
-			<ymax>329</ymax>
+			<xmin>443</xmin>
+			<ymin>136</ymin>
+			<xmax>461</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 25</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>495</xmin>
+			<ymin>161</ymin>
+			<xmax>527</xmax>
+			<ymax>204</ymax>
 		</bndbox>
 	</object>
 </annotation>

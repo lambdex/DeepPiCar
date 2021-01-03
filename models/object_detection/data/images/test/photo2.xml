@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>1phos.jpg</filename>
-	<path>C:\Users\0kpie\Desktop\picar_test\test\1phos.jpg</path>
+	<filename>photo2.jpg</filename>
+	<path>C:\Users\0kpie\Desktop\picar_test\test\photo2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Speed Limit 40</name>
+		<name>Red Traffic Light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>132</xmin>
-			<ymin>147</ymin>
-			<xmax>163</xmax>
-			<ymax>185</ymax>
+			<xmin>117</xmin>
+			<ymin>158</ymin>
+			<xmax>144</xmax>
+			<ymax>216</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
-			<ymin>128</ymin>
-			<xmax>235</xmax>
-			<ymax>205</ymax>
+			<xmin>172</xmin>
+			<ymin>137</ymin>
+			<xmax>225</xmax>
+			<ymax>233</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>330</xmin>
-			<ymin>134</ymin>
-			<xmax>368</xmax>
-			<ymax>172</ymax>
+			<xmin>267</xmin>
+			<ymin>131</ymin>
+			<xmax>305</xmax>
+			<ymax>169</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Red Traffic Light</name>
+		<name>Speed Limit 40</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>410</xmin>
-			<ymin>148</ymin>
-			<xmax>431</xmax>
-			<ymax>200</ymax>
+			<xmin>400</xmin>
+			<ymin>151</ymin>
+			<xmax>438</xmax>
+			<ymax>197</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Speed Limit 25</name>
+		<name>Green Traffic Light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>463</xmin>
-			<ymin>159</ymin>
-			<xmax>496</xmax>
-			<ymax>200</ymax>
+			<xmin>519</xmin>
+			<ymin>188</ymin>
+			<xmax>555</xmax>
+			<ymax>257</ymax>
 		</bndbox>
 	</object>
 </annotation>

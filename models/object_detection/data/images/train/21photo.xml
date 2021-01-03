@@ -12,51 +12,39 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>Green Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>141</ymin>
+			<xmax>209</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>Stop</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>166</xmin>
-			<ymin>130</ymin>
-			<xmax>199</xmax>
-			<ymax>163</ymax>
+			<xmin>219</xmin>
+			<ymin>118</ymin>
+			<xmax>245</xmax>
+			<ymax>144</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Red Traffic Light</name>
+		<name>Speed Limit 40</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>283</xmin>
-			<ymin>123</ymin>
-			<xmax>298</xmax>
-			<ymax>164</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Person</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>355</xmin>
-			<ymin>124</ymin>
-			<xmax>401</xmax>
-			<ymax>206</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Lambo</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>430</xmin>
-			<ymin>163</ymin>
-			<xmax>525</xmax>
-			<ymax>228</ymax>
+			<xmin>303</xmin>
+			<ymin>118</ymin>
+			<xmax>324</xmax>
+			<ymax>139</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>547</xmin>
-			<ymin>180</ymin>
-			<xmax>583</xmax>
-			<ymax>228</ymax>
+			<xmin>366</xmin>
+			<ymin>123</ymin>
+			<xmax>385</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>168</ymin>
+			<xmax>474</xmax>
+			<ymax>222</ymax>
 		</bndbox>
 	</object>
 </annotation>

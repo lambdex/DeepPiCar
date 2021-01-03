@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>131</xmin>
-			<ymin>147</ymin>
-			<xmax>165</xmax>
-			<ymax>191</ymax>
+			<xmin>112</xmin>
+			<ymin>187</ymin>
+			<xmax>164</xmax>
+			<ymax>247</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>205</xmin>
-			<ymin>121</ymin>
-			<xmax>226</xmax>
-			<ymax>145</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Stop</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>270</xmin>
-			<ymin>121</ymin>
-			<xmax>301</xmax>
-			<ymax>152</ymax>
+			<xmin>200</xmin>
+			<ymin>133</ymin>
+			<xmax>224</xmax>
+			<ymax>159</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>359</xmin>
-			<ymin>144</ymin>
-			<xmax>423</xmax>
-			<ymax>258</ymax>
+			<xmin>266</xmin>
+			<ymin>130</ymin>
+			<xmax>324</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Green Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>162</ymin>
+			<xmax>393</xmax>
+			<ymax>239</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>455</xmin>
-			<ymin>160</ymin>
-			<xmax>505</xmax>
-			<ymax>214</ymax>
+			<xmin>449</xmin>
+			<ymin>152</ymin>
+			<xmax>490</xmax>
+			<ymax>198</ymax>
 		</bndbox>
 	</object>
 </annotation>
